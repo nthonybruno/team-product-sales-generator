@@ -25,4 +25,3 @@ Definitions:
 2. Open a terminal window, and execute the follow command: Note all 5 options are required (Where it says "path to X", please provide the full filepath to the file. For the team-report and product-report, provide the path of where you wish the file to be, it does not have to be a real file)
 	> python3 report.py -t [path to Team Map CSV] -p [path to Product Master CSV] -s [path to Sales CSV] --team-report=[Path to Team Report CSV] --product-report=[Path to Product Report CSV]
 3. View Calculations produced in the Team Report and Product Report CSV documents.
-
