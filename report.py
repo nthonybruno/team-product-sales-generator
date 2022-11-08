@@ -1,9 +1,6 @@
-# Title: XR Trading, LLC Python Development Challenge
-# Author: Anthony Bruno
-# Email: abruno2@stevens.edu
 # Python version: 3.1
-# Description: Reads from 3 input files and produces 2 output files, the names of each must be provided as input
-# Constraints: Built-in python packages only
+# Description: Reads from 3 input files and produces 2 output files, the names of each must be provided as input.
+# Constraints: Built-in python packages only.
 
 # Required imports (all are built-in Python packages)
 import sys
